@@ -179,3 +179,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+
+
+
+
+/src/__pycache__
+/src/database/__pycache__
+/src/ui/__pycache__
+/src/utils/__pycache__
