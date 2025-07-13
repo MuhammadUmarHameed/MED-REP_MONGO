@@ -192,3 +192,4 @@ cython_debug/
 *.csv
 *.pdf
 *.db
+*.backup_20250713_050010
