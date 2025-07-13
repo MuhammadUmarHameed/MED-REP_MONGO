@@ -191,3 +191,4 @@ cython_debug/
 /src/utils/__pycache__
 *.csv
 *.pdf
+*.db
