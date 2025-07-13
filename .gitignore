@@ -194,3 +194,4 @@ cython_debug/
 *.db
 *.backup_20250713_050010
 *.optimize_backup_20250512_040829
+*.optimize_backup_20250527_114036
