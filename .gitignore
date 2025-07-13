@@ -190,3 +190,4 @@ cython_debug/
 /src/ui/__pycache__
 /src/utils/__pycache__
 *.csv
+*.pdf
